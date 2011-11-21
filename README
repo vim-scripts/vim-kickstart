@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3817
+
+This is a fork of vimscript #736 whose author is no longer maintaining it. My fork lives on GitHub here:
+
+https://github.com/tangledhelix/vim-kickstart
+
+This version adds comment/commenstring and format options, on top of the existing syntax file supplied by David Neças' original kickstart.vim script.
